@@ -10,7 +10,7 @@ Este projeto consiste em um sistema de gerenciamento para uma loja online que ve
     * Adição de livros e eletrônicos ao catálogo.
     * Exibição da lista de produtos disponíveis.
 * **Cálculo de Descontos:**
-    * Cálculo automático de descontos para livros (15% para preços acima de R$300, 10% para preços acima de R$100) e eletrônicos (15% para preços acima de R$3000, 10% para preços acima de R$2000).
+    * Cálculo automático de descontos para livros (15% para preços acima de R$99) e eletrônicos (15% para preços acima de R$3000, 10% para preços acima de R$2000).
     * Cálculo do desconto total no carrinho de compras (simulado).
 * **Registro de Vendas:**
     * Simulação do registro de vendas de produtos.
